@@ -21,4 +21,4 @@ A Python script to calculate the final price of an item after applying a discoun
 1. Clone or download this repository to your local machine.
 2. Run the script in a Python environment:
    ```bash
-   python discount_calculator.py
+   python week3.py
